@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1776268816 source:c:\users\n01620396\downloads\lab7\lab7.c
+	"header.h"
+
+1776874076 c:\users\n01620396\downloads\lab7\header.h
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<sys/param.h>
+	<stdbool.h>
+	<ctype.h>
+
+1776876621 source:c:\users\n01620396\downloads\lab7\main.c
+	"header.h"
+
+1776874900 source:c:\users\n01620396\downloads\lab7\parser.c
+	"header.h"
+	"parser.h"
+
+1776266210 c:\users\n01620396\downloads\lab7\parser.h
+	<string.h>
+
+1776871158 source:c:\users\n01620396\downloads\lab7\memory.c
+	"header.h"
+	<time.h>
+
+1776877135 source:c:\users\n01620396\downloads\lab7\lab8_9.c
+	"header.h"
+	"lab8header.h"
+
+1776872678 c:\users\n01620396\downloads\lab7\lab8header.h
+
+1776268816 source:c:\users\n01620396\downloads\lab8\lab7\lab7.c
+	"header.h"
+
+1776874076 c:\users\n01620396\downloads\lab8\lab7\header.h
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<sys/param.h>
+	<stdbool.h>
+	<ctype.h>
+
+1776877134 source:c:\users\n01620396\downloads\lab8\lab7\lab8_9.c
+	"header.h"
+	"lab8header.h"
+
+1776872678 c:\users\n01620396\downloads\lab8\lab7\lab8header.h
+
+1776876620 source:c:\users\n01620396\downloads\lab8\lab7\main.c
+	"header.h"
+
+1776871158 source:c:\users\n01620396\downloads\lab8\lab7\memory.c
+	"header.h"
+	<time.h>
+
+1776874900 source:c:\users\n01620396\downloads\lab8\lab7\parser.c
+	"header.h"
+	"parser.h"
+
+1776266210 c:\users\n01620396\downloads\lab8\lab7\parser.h
+	<string.h>
+
